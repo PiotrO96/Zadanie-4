@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ps4</string>
+    <string name="name">Name</string>
+    <string name="password">password</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="username">Username</string>
+    <string name="fullname">Fullname</string>
+    <string name="email">Email</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="error">Error</string>
+    <string name="ok">Ok</string>
+    <string name="can_not_create">Cant create new account</string>
+    <string name="invalid_account">Wrong account</string>
+    <string name="uzername_exists">Username already exists</string>
+    <string name="welcome">Welcome</string>
+</resources>
